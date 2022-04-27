@@ -1,4 +1,6 @@
 
+![serstat](https://socialify.git.ci/purhan/serstat/image?description=1&font=Inter&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fpurhan%2Fserstat%2Fmaster%2Fclient%2Fpublic%2Flogo.png&name=1&owner=1&pattern=Plus&theme=Light)
+
 ## About The Project
 
 Serstat is a scalable, real-time monitoring application for collecting and displaying resource information of many servers in a network.
